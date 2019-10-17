@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"> -->
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="/Users/allanchavarria/Desktop/Code/Air_bnb_project3/assets/pay.css">
+
+</head>
+<body>
+
+<!-- <div class="bg-image"></div> -->
+
+
+<section>
+<h2 class="title">Introducing the seamless way to split purchases</h2>
+<p class="title">Enroll now so you can split your bill with any Venmo Paypal or ApplePay user, directly from the apps.</p>
+<p class="title">Your other parties have exactly 2 days to pay the remaining balance before the hold on your rental expires!</p>
+<div class="row">
+  <div class="col-75">
+    <div class="container">
+      <form action="/action_page.php">
+      
+        <div class="row">
+          <div class="col-50">
+            <h3>Your Information</h3>
+            <label for="fname"><i class="fa fa-user"></i> Full Name</label>
+            <input type="text" id="fname" name="firstname" placeholder="Print your Name">
+            <label for="email"><i class="fa fa-envelope"></i> Email</label>
+            <input type="text" id="email" name="email" placeholder="Allan@Allan.com">
+            <label for="adr"><i class="fa fa-address-card-o"></i> Address</label>
+            <input type="text" id="adr" name="address" placeholder="34 Neverland Street">
+            <label for="city"><i class="fa fa-institution"></i> Payment Type</label>
+            <input type="text" id="city" name="Payment Type" placeholder="Credit Card, Venmo, ApplePay">
+
+
+
+          <div class="row">
+                <div class="col-50">
+                  <h3>Additional Payee Information</h3>
+                  <label for="fname"><i class="fa fa-user"></i> Full Name</label>
+                  <input type="text" id="fname" name="firstname" placeholder="Print your friends name here">
+                  <label for="email"><i class="fa fa-envelope"></i> Email</label>
+                  <input type="text" id="email" name="email" placeholder="Friend@friend.com"> 
+        </div>
+        <input type="button" value="Send Payment (Click Me)" style="color:rgb(255, 0, 0)" class="btn" onclick="window.location='/Users/allanchavarria/Desktop/Code/Air_bnb_project3/thanks.html';"/>
+      </form>
+    </div>
+  </div>
+  <div class="col-25">
+    <div class="container">
+      <h4>Checkout Basket <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i> <b>1</b></span></h4>
+      <p><a href="#">Santa Cruz Cottage</a> <span class="price">$800</span></p>
+      <!-- <p><a href="#">-----</a> <span class="price">$0</span></p>
+      <p><a href="#">-----</a> <span class="price">$0</span></p> -->
+      <hr>
+      <p>Total <span class="price" style="color:black"><b>$800</b></span></p>
+    </div>
+  </div>
+</div>
+</section>
+
+</body>
+</html>
