@@ -1,5 +1,4 @@
 # Oasis_Travel
-___________________________________________________________
 This makeshift website which does not have any back-end code installed, goes throught the motions of certain features that in my opinion the Airbnb website is lacking.
 
 Motivation
