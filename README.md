@@ -16,6 +16,11 @@ Other features for the Airbnb website that it could benefit from would be having
 ### Screenshots
 ----------------------
 
+As you scroll down through the first page of the website, you will come across the pricing section. Click the button in the "Split with a friend" box on the far right to continue onto the next page. All other buttons on this page are not active. 
+![Screen Shot 2019-10-18 at 9 38 32 AM](https://user-images.githubusercontent.com/45243761/67115041-1fa5f580-f192-11e9-9d4e-5ee9306834ba.png)
+
+
+To continue onto the next page, click the "Send Payment" button to continue onto the next page.
 ![Screen Shot 2019-10-18 at 9 40 37 AM](https://user-images.githubusercontent.com/45243761/67114769-87a80c00-f191-11e9-890a-273581511c14.png)
 
 
@@ -30,7 +35,8 @@ Bootstrap, HTML, CSS
 ### How to use?
 ---------------------
 
-There is no back-end code built on this website. The website flow is top to bottom. 
+There is no back-end code built on this website. The website flow is top to bottom. As you scroll down through through the first page, you will come across the pricing section. Click the button in the "Split with a friend" box on the far right to continue onto the next page. You will be re-directed to the second page after the first step, after you explore the payments page to continue onto the next page, click the "Send Payment" button to continue onto the next page. The third and final page will show a countown of how long you are your party have left till the hold on the rental property expires.
+
 
 
 
