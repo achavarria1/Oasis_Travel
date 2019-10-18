@@ -18,7 +18,7 @@ Other features for the Airbnb website that it could benefit from would be having
 
 Include logo/demo screenshot etc.
 
-![my screenshot](Screen Shot 2019-10-18 at 9.40.37 AM.png)
+![my screenshot](/Users/allanchavarria/Desktop/Code/Air_bnb_project3/pictures/Screen Shot 2019-10-18 at 9.40.37 AM.png)
 
 
 
